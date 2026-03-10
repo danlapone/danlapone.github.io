@@ -1,0 +1,14 @@
+subject: Education
+listing-order: 3
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Woodbury University, Architecture
+    description:
+      - Activities and societies - Business, Entrepreneurship, Studio, Design
+      - Architecture and Business major with courses in design, graphical representation, and problem-solving.
+    date: 2009 - 2011
+  - title: Wentworth Institute of Technology, Mechanical Engineering
+    description:
+      - Activities and societies - Club Lacrosse, Social Media, Graphic Design, Promotion
+      - Mechanical Engineering major with courses in design, manufacturing, problem-solving, and machining.
+    date: 2007 - 2009

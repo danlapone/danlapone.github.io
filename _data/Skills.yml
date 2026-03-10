@@ -1,0 +1,8 @@
+subject: Skills
+listing-order: 5
+icon: "/assets/img/flask.svg"
+contents:
+  - title: Scripting & Automation Tools
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg)
+    "

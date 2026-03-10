@@ -1,0 +1,19 @@
+subject: Experience
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Thomson Reuters
+    role: Sr. Systems Administrator, Technology
+    date: Jan. 2023 - Present
+  - title: Acra Lending
+    role: Systems Administrator, Infrastructure
+    date: Nov. 2021 - Jan. 2023
+  - title: Veritone, Inc.
+    role: Systems Administrator, IT
+    date: Jul. 2018 - Nov. 2021
+  - title: Verizon Wireless
+    role: Cross-Platform & Executive Support, Engineering Data Network
+    date: Nov. 2014 - Jul. 2018
+  - title: Apple, Inc.
+    role: Specialist
+    date: Sep. 2011 - Aug. 2014
