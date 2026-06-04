@@ -1,1 +1,55 @@
-_data/.DS_Store
+# ==========================================
+# macOS System Files
+# ==========================================
+# Common macOS hidden/system files and metadata to ignore
+.DS_Store
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.VolumeIcon.icns
+.Trashes
+.TemporaryItems
+.Spotlight-V100
+.fseventsd
+.apdisk
+.Network Trash Folder
+Temporary Items
+Icon\r
+
+# ==========================================
+# Windows System Files
+# ==========================================
+# Common Windows hidden/system files and shell artifacts to ignore
+$RECYCLE.BIN/
+[Dd]ownloads/
+desktop.ini
+*.cab
+*.lnk
+*.msi
+*.msp
+*.msm
+ehthumbs.db
+ehthumbs_vista.db
+Thumbs.db
+Thumbs.db:encryptable
+System Volume Information/
+
+# ==========================================
+# Linux System Files
+# ==========================================
+# Common Linux hidden files, temporary files, and filesystem-related artifacts
+*~
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
+
+# ==========================================
+# Application / Other Files
+# ==========================================
+# Generic generated files that are not OS-specific
+# Logs
+*.log*
